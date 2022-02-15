@@ -1,0 +1,10 @@
+###
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+
+{
+  "name": "AAA",
+  "gender": "Other",
+  "department": "ZZZ",
+  "dob": "2022-02-02"
+}
